@@ -1,5 +1,5 @@
 # Hi there 👋
-## a little about my self
+## a little about myself
 - :student: HBO ICT
 - :school: Hanze Hogeschool
 - :globe_with_meridians: ICT management
