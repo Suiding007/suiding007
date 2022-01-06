@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-**Suiding007/suiding007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## a little about y self
 - :student: HBO ICT
 - :school: Hanze Hogeschool
 - :globe_with_meridians: ICT management
