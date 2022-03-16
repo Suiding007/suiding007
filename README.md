@@ -4,7 +4,7 @@
 - :school: Hanze Hogeschool
 - :globe_with_meridians: ICT management
 - 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python, html, css
 
 ### quote of the day
 "There is no end to education. It is not that you read a book, pass an examination, and finish with education. 
