@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on school projects
 - 🌱 I’m currently learning python, html, css
 
-Repository where I worked on with other contrubuters:
+Repository where I worked on with other contributers:
 - [x] https://github.com/Easterbun/AI-4-op-een-rij-project-2021-2022
 
 
