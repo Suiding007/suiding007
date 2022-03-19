@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning python, html, css
 
 ### Repository where I worked on with other contributers:
-- [x] 4 in a row: ` https://github.com/Easterbun/AI-4-op-een-rij-project-2021-2022 `
+- [x] AI 4 in a row: ` https://github.com/Easterbun/AI-4-op-een-rij-project-2021-2022 `
 
 
 ### quote of the day:
