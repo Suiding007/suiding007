@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning python, html, css
 
 Repository where I worked on with other contrubuters:
--[] https://github.com/Easterbun/AI-4-op-een-rij-project-2021-2022
+-[ ] https://github.com/Easterbun/AI-4-op-een-rij-project-2021-2022
 
 ### quote of the day:
 >"There is no end to education. It is not that you read a book, pass an examination, and finish with education. 
