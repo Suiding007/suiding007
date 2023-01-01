@@ -1,10 +1,10 @@
 # Hi there 👋
 ## a little about myself
-- :student: HBO ICT
+- :student: HBO ICT, major NSE
 - :school: Hanze Hogeschool
 - :globe_with_meridians: ICT management
 - 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning python, html, css, sqlite3, flask
+- 🌱 I’m currently learning python, html, css, sqlite3, flask, C
 
 ### Repository where I worked on with other contributers:
 
