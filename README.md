@@ -1,6 +1,6 @@
 # Hi there 👋
 ## a little about myself
-- :student: HBO ICT, major NSE
+- :student: HBO ICT, Major NSE
 - :school: Hanze Hogeschool
 - :globe_with_meridians: ICT management
 - 🔭 I’m currently working on school projects
