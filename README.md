@@ -4,7 +4,7 @@
 - :school: Hanze Hogeschool
 - :globe_with_meridians: ICT management
 - 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning python, html, css, sqlite3, flask, C
+- 🌱 I’m currently learning Python, HTML, CSS, Sqlite3, Flask, C, Ansible, FreeRTOS
 
 ### Repository where I worked on with other contributers:
 
