@@ -2,7 +2,7 @@
 ## a little about myself
 - :student: HBO ICT, Major NSE
 - :school: Hanze Hogeschool
-- :globe_with_meridians: ICT management
+- :globe_with_meridians: ICT Network security Engineer
 - 🔭 I’m currently working on school projects
 - 🌱 I’m currently learning Python, HTML, CSS, Sqlite3, Flask, C, Ansible, FreeRTOS
 
